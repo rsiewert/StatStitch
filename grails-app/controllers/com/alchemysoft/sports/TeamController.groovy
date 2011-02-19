@@ -4,11 +4,6 @@ package com.alchemysoft.sports
 *class TeamController
 *
  */
-
-/*This is my change  on the screenscraper branch*/
-
-/* this one is from the master branch */
-
 class TeamController {
 
 
