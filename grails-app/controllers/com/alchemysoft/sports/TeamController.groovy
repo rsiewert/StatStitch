@@ -5,11 +5,11 @@ package com.alchemysoft.sports
 *
  */
 
-<<<<<<< Updated upstream
+
 //going to commit this and then unstash
-=======
+
 /* something to be stashed */
->>>>>>> Stashed changes
+
 
 class TeamController {
 
