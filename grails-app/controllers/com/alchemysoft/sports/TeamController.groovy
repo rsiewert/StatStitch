@@ -5,12 +5,6 @@ package com.alchemysoft.sports
 *
  */
 
-
-//going to commit this and then unstash
-
-/* something to be stashed */
-
-
 class TeamController {
 
 
